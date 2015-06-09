@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07c0478a-f3c3-42a7-9c63-632a82fe02e7" name="Default" comment="Added relationship one to many with family">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/app.blade.php" afterPath="$PROJECT_DIR$/resources/views/app.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="07c0478a-f3c3-42a7-9c63-632a82fe02e7" name="Default" comment="Added relationship one to many with family" />
     <list id="b6f500ea-c436-499f-b6ec-fc78e9f9d4c2" name="Rejected commit: Default" comment="Added relationship one to many with family" />
     <ignored path="myfinanc.iws" />
     <ignored path=".idea/workspace.xml" />
